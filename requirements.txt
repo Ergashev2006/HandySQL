@@ -1,0 +1,16 @@
+# EasySQL - Talablar
+
+# Asosiy kutubxona (SQLite Python bilan birga keladi)
+
+# MySQL uchun (ixtiyoriy)
+# mysql-connector-python>=8.0.0
+
+# PostgreSQL uchun (ixtiyoriy)
+# psycopg2-binary>=2.9.0
+
+# Development uchun (ixtiyoriy)
+# pytest>=7.0.0
+# pytest-cov>=3.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.950
